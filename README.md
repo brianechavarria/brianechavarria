@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @brianechavarria
 - 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning python and data science
+- 🌱 I’m currently a Data Science Student at UT Austin and a Solutions Engineer at Epic Systems
+- 👨‍🍳 I'm building brech.fun
 - 📫 How to reach me - be2298@columbia.edu
 
 <!---
